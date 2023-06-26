@@ -37,4 +37,5 @@ I'm a full-stack developer with a passion for learning new tools and technologie
 <br />
 
 ---
+
 ![MediumChaiLatte2Sugars' GitHub stats](https://github-readme-stats.vercel.app/api?username=mediumchailatte2sugars&show_icons=true&theme=gruvbox)
