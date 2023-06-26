@@ -11,7 +11,7 @@ I'm a full-stack developer with a passion for learning new tools and technologie
 
 ### 🧰 Languages and Tools
 
-<p align="left">
+<div align="left">
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -31,12 +31,10 @@ I'm a full-stack developer with a passion for learning new tools and technologie
   <img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
   <img align="left" alt="Cypress" width="30px" style="padding-right:10px;" src="https://github.com/MediumChaiLatte2Sugars/MediumChaiLatte2Sugars/assets/114053788/f6500dca-9431-4f58-b5e5-f59509856cc2" />
   <img align="left" alt="Chai" width="30px" style="padding-right:10px;" src="https://github.com/MediumChaiLatte2Sugars/MediumChaiLatte2Sugars/assets/114053788/717d8545-c743-4af7-a3e2-42b28453306d" />
-</p>
+</div>
 
 <br />
 
-<div>
-  <hr>
-</div>
+---
 
 ![MediumChaiLatte2Sugars' GitHub stats](https://github-readme-stats.vercel.app/api?username=mediumchailatte2sugars&show_icons=true&theme=gruvbox)
