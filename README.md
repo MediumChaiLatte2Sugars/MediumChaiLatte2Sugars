@@ -33,8 +33,9 @@ I'm a full-stack developer with a passion for learning new tools and technologie
   <img align="left" alt="Chai" width="30px" style="padding-right:10px;" src="https://github.com/MediumChaiLatte2Sugars/MediumChaiLatte2Sugars/assets/114053788/717d8545-c743-4af7-a3e2-42b28453306d" />
   
 </div>
-
-<hr>
-
-
-![MediumChaiLatte2Sugars' GitHub stats](https://github-readme-stats.vercel.app/api?username=mediumchailatte2sugars&show_icons=true&theme=gruvbox)
+<br>
+<div>
+  <hr>
+  
+  ![MediumChaiLatte2Sugars' GitHub stats](https://github-readme-stats.vercel.app/api?username=mediumchailatte2sugars&show_icons=true&theme=gruvbox) 
+</div>
