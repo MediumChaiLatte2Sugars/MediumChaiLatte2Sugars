@@ -60,19 +60,13 @@ I'm a full-stack developer with a passion for learning new tools and technologie
 
 [![Jungle Rails Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=jungle-rails&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/jungle-rails)
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
 [![Quillshare Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=Quillshare&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/Quillshare)
 
 [![Bytes Restaurant Card](https://github-readme-stats.vercel.app/api/pin/?username=penguinboots&repo=bytes-restaurant&theme=vue-dark&show_owner=true)](https://github.com/penguinboots/bytes-restaurant)
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
 [![Scheduler Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=scheduler&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/scheduler)
 
 [![Tinyapp Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=tinyapp&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/tinyapp)
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z/C/HgAGgwJ/lK3Q6wAAAABJRU5ErkJggg==">
 [![Tweeter Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=tweeter&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/tweeter)
   
