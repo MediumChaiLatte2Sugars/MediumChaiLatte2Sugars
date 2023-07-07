@@ -57,12 +57,29 @@ I'm a full-stack developer with a passion for learning new tools and technologie
 ![MediumChaiLatte2Sugars' GitHub stats](https://github-readme-stats.vercel.app/api?username=mediumchailatte2sugars&show_icons=true&theme=shades-of-purple) 
 
 ### 📌 Featured Work
+<a href="https://github.com/MediumChaiLatte2Sugars/jungle-rails">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=jungle-rails&theme=vue-dark" alt="Jungle Rails Card" title="Jungle Rails">
+</a>
 
-[![Jungle Rails Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=jungle-rails&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/jungle-rails)
-[![Quillshare Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=Quillshare&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/Quillshare)
-[![Bytes Restaurant Card](https://github-readme-stats.vercel.app/api/pin/?username=penguinboots&repo=bytes-restaurant&theme=vue-dark&show_owner=true)](https://github.com/penguinboots/bytes-restaurant)
-[![Scheduler Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=scheduler&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/scheduler)
-[![Tinyapp Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=tinyapp&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/tinyapp)
-[![Tweeter Card](https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=tweeter&theme=vue-dark)](https://github.com/MediumChaiLatte2Sugars/tweeter)
+<a href="https://github.com/MediumChaiLatte2Sugars/Quillshare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=Quillshare&theme=vue-dark" alt="Quillshare Card" title="Quillshare">
+</a>
+
+<a href="https://github.com/penguinboots/bytes-restaurant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=penguinboots&repo=bytes-restaurant&theme=vue-dark&show_owner=true" alt="Bytes Restaurant Card" title="Bytes Restaurant">
+</a>
+
+<a href="https://github.com/MediumChaiLatte2Sugars/scheduler">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=scheduler&theme=vue-dark" alt="Scheduler Card" title="Scheduler">
+</a>
+
+<a href="https://github.com/MediumChaiLatte2Sugars/tinyapp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=tinyapp&theme=vue-dark" alt="Tinyapp Card" title="Tinyapp">
+</a>
+
+<a href="https://github.com/MediumChaiLatte2Sugars/tweeter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mediumchailatte2sugars&repo=tweeter&theme=vue-dark" alt="Tweeter Card" title="Tweeter">
+</a>
+
   
 
